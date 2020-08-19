@@ -6,7 +6,7 @@ const siteMetadata = {
   siteUrl: `https://novela.narative.co`,
   description: `This is my description that will be used in the meta tags and important for search results`,
   hero: {
-    heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+    heading: "Coping with scoliosis can be hard. ​We provide help and resources that you need, so that it isn't.",
     maxWidth: 652,
   },
   social: [

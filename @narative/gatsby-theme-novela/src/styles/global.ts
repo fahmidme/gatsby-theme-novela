@@ -1,4 +1,5 @@
 import { css } from "@emotion/core";
+import bg from '@components/Assets/images/bg.jpg';
 
 export const globalStyles = css`
   /**
@@ -51,6 +52,9 @@ export const globalStyles = css`
     margin: 0;
     font-weight: 400;
     height: 100%;
+    background: url(${bg});
+    background-size: contain;
+    background-repeat: no-repeat;
   }
 
   article {
